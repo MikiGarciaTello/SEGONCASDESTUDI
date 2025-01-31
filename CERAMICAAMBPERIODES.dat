@@ -1,0 +1,107 @@
+:	Dot		-	-	-	Group	Group	Group	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+Black	Dot	NOM	AREA EXCAVADA	ue	sencer	Morfologia	GrupM+D	període	diam. Boca	diam max	Dm. Base	Alçada total	Coll	dist Coll-Boca	dist. Max-Boca	ampl Vora	brunyit (A)	engalba (B)	pintat (C)	linea horiz vermella (D)	banda negre (E)	banda vermella (F)	banda blanca (G)	Motius geometrics (H)	
+#FF1B9E77	Dot	CER64	esplanada	34	0	1	1CH	3	12.6						0	4.2	0	0	1	0	0	0	0	1	
+#FF1B9E77	Dot	CER71	esplanada	34	0	1	1CH	3	10.65	11.4			9.01	4.3	0	4.9	0	0	1	0	0	0	0	1	
+#FF1B9E77	Dot	CER70	esplanada	34	0	1	1CH	3	11.45							4.8	0	0	1	0	0	0	0	1	
+#FF1B9E77	Dot	CER60	parking privat	23	1	1	1CH	3	12.1	12.1	12.8	32.8	9.7	4.2	0	4.5	0	0	1	0	0	0	0	1	
+#FF1B9E77	Dot	CER15	edifici rectorat	7	1	1	1CH	3	11.7	11.7	14.5	34.3	9	3.4	0	4.4	0	0	1	0	0	0	0	1	
+#FF1B9E77	Dot	CER62	esplanada	34	1	1	1CH	3	11.4	11.4	12.9	33.4	9.5	4.1	0	4.9	0	0	1	0	0	0	0	1	
+#FF1B9E77	Dot	CER63	esplanada	34	1	1	1CH	3	12.1	12.1	13.1	32.1	8.9	4.1	0	4.6	0	0	1	0	0	0	0	1	
+#FF1B9E77	Dot	CER68	esplanada	34	0	1	1CH	3	11.06				8.8	3.9		4.4	0	0	1	0	0	0	0	1	
+#FF1B9E77	Dot	CER69	esplanada	34	0	1	1CH	3	10.9							4.8	0	0	1	0	0	0	0	1	
+#FF1B9E77	Dot	CER59	parking privat	23	0	1	1CH	3	11.5							4.01	0	0	1	0	0	0	0	1	
+#FF1B9E77	Dot	CER67	esplanada	34	1	1	1CH	3	11.4	11.4	12.8	33.4	9.5	4.1	0	4.4	0	0	1	0	0	0	0	1	
+#FF1B9E77	Dot	CER45	parking public	15	0	1	1CH	3	12.1							4.5	0	0	1	0	0	0	0	1	
+#FF1B9E77	Dot	CER44	parking public	15	0	1	1CH	3	12							4.6	0	0	1	0	0	0	0	1	
+#FFD95F02	Dot	CER20	edifici rectorat	9	0	2	2A	2	28.4							1.8	1	0	0	0	0	0	0	0	
+#FFD95F02	Dot	CER81	antic campament	41	1	2	2CF	3	27.9	34.5	9.1	21.1	17.2	7	12.3	0.99	0	0	1	0	0	1	0	0	
+#FFD95F02	Dot	CER18	edifici rectorat	4	0	2	2A	2		31.6			18.5			1.6	1	0	0	0	0	0	0	0	
+#FFD95F02	Dot	CER93	voral carretera		1	2	2CF	3	28	33.6	10.5	23.2	19	7.4	12.9	1.3	0	0	1	0	0	1	0	0	
+#FFD95F02	Dot	CER22	edifici rectorat	5	0	2	2A	2	25.7							1.5	1	0	0	0	0	0	0	0	
+#FFD95F02	Dot	CER9	edifici rectorat	3	0	2	2CF	3	26							1.1	0	0	1	0	0	1	0	0	
+#FFD95F02	Dot	CER12	edifici rectorat	3	0	2	2CD	2		34.9			17.9			0.7	0	0	1	1	0	0	0	0	
+#FFD95F02	Dot	CER87	antic campament	42	0	2	2A	2	28.8				18.9	7		1.5	1	0	0	0	0	0	0	0	
+#FFD95F02	Dot	CER82	antic campament	41	1	2	2CF	3	26.9	33.7	12.3	29.2	19.05	7.2	12.01	1.3	0	0	1	0	0	1	0	0	
+#FFD95F02	Dot	CER47	parking public	18	1	2	2A	2	26.5	32.5	10.2	23.4	17	5.6	11.1	0.9	1	0	0	0	0	0	0	0	
+#FFD95F02	Dot	CER66	esplanada	34	0	2	2CF	3	28.1				18.7	7.3		0.99	0	0	1	0	0	1	0	0	
+#FFD95F02	Dot	CER19	edifici rectorat	4	1	2	2CF	3	26.9	37.8	10.3	22.3	16.4	8.4	10.8	1.5	0	0	1	0	0	1	0	0	
+#FFD95F02	Dot	CER48	parking public	18	1	2	2A	2	25.5	32.5	10.2	23.4	17	5.6	11.1	0.9	1	0	0	0	0	0	0	0	
+#FFD95F02	Dot	CER49	parking public	19	1	2	2A	2	26.4	33.3	10.5	24.4	17.4	8.5	10.1	1.8	1	0	0	0	0	0	0	0	
+#FFD95F02	Dot	CER13	edifici rectorat	7	0	2	2CD	2	28.2							0.8	0	0	1	1	0	0	0	0	
+#FFD95F02	Dot	CER25	edifici rectorat	5	0	2	2A	2	28.8	35.9			16.4	7	11.4	1.5	1	0	0	0	0	0	0	0	
+#FFD95F02	Dot	CER95	voral carretera		0	2	2A	2	25.6							1.4	1	0	0	0	0	0	0	0	
+#FFD95F02	Dot	CER78	antic campament	40bis	0	2	2CD	2		31.8			18.9	9.1	10.9	1.2	0	0	0	0	0	0	0	0	
+#FFD95F02	Dot	CER77	antic campament	40bis	0	2	2A	2	24.8	32.9			19.7	9.8	11.2	1.6	1	0	0	0	0	0	0	0	
+#FFD95F02	Dot	CER73	esplanada	33bis	0	2	2A	2	27.1							1.6	1	0	0	0	0	0	0	0	
+#FFD95F02	Dot	CER96	voral carretera		0	2	2A	2	28.7	34.5			19.6	7	11.5	1.4	1	0	0	0	0	0	0	0	
+#FFD95F02	Dot	CER94	voral carretera		1	2	2CF	3	28	33.6	10.2	23.2	19	7.4	11.8	1.3	0	0	1	0	0	1	0	0	
+#FFD95F02	Dot	CER52	parking public	19	1	2	2A	2	25.9	32.9	9.8	21.05	19.7	9.8	11.2	1.06	1	0	0	0	0	0	0	0	
+#FFD95F02	Dot	CER26	edifici rectorat	5	0	2	2A	2	26.7				19	7.9		0.9	1	0	0	0	0	0	0	0	
+#FFD95F02	Dot	CER58	parking privat	23	1	2	2CF	3	27.3	32.6	9.7	22.5	18.5	8.3	11.9	0.9	0	0	1	0	0	1	0	0	
+#FFD95F02	Dot	CER61	parking privat	23	1	2	2CF	3	28.9	34.5	9.6	21.1	17.2	7	12.3	0.8	0	0	1	0	0	1	0	0	
+#FFD95F02	Dot	CER80	antic campament	41	1	2	2CF	3	26.8	33.7	10.5	28.5	19.05	7.2	12.5	1.3	0	0	1	0	0	1	0	0	
+#FFD95F02	Dot	CER65	esplanada	34	1	2	2CF	3	26.9	33.7	12.1	29.2	19.05	7.2	12.3	1.3	0	0	1	0	0	1	0	0	
+#FFD95F02	Dot	CER46	parking public	18	1	2	2A	2	26.09	32.9	9.6	23.01	19.7	9.8	11.2	1.7	1	0	0	0	0	0	0	0	
+#FFD95F02	Dot	CER10	edifici rectorat	3	1	2	2CD	2	28	33.6	8.5	23.2	18	7.4	15.9	1.3	0	0	1	1	0	0	0	0	
+#FFD95F02	Dot	CER72	esplanada	33bis	0	2	2A	2	26.4				17.4	8.5		1.8	1	0	0	0	0	0	0	0	
+#FF7570B3	Dot	CER57	parking privat	23	1	3	3CD	3	22.3	22.3	8.5	13	0	0	0	1.2	0	0	1	1	0	0	0	0	
+#FF7570B3	Dot	CER1	edifici rectorat	2	1	3	3B	4	22.3	22.3	8.4	12.7	0	0	0	1.2	0	1	0	0	0	0	0	0	
+#FF7570B3	Dot	CER76	esplanada	33bis	0	3	3A	2	21.2							1.6	1	0	0	0	0	0	0	0	
+#FF7570B3	Dot	CER7	edifici rectorat	3	0	3	3CD	3	24.7						0	1.5	0	0	1	1	0	0	0	0	
+#FF7570B3	Dot	CER28	edifici rectorat	10	1	3	3O	1	25.7	25.7	7.9	11.2	0	0	0	1.12	0	0	0	0	0	0	0	0	
+#FF7570B3	Dot	CER11	edifici rectorat	3	1	3	3CD	3	23.1	23.1	8.6	12.4	0	0	0	1.2	0	0	1	1	0	0	0	0	
+#FF7570B3	Dot	CER8	edifici rectorat	3	1	3	3CD	3	25.9	25.9	10.3	11.2	0	0	0	1.05	0	0	1	1	0	0	0	0	
+#FF7570B3	Dot	CER23	edifici rectorat	5	0	3	3A	2	23.7							1.1	1	0	0	0	0	0	0	0	
+#FF7570B3	Dot	CER53	parking public	19	1	3	3A	2	22.5	25.1	7.9	12.5	0	0	0	1.1	1	0	0	0	0	0	0	0	
+#FF7570B3	Dot	CER14	edifici rectorat	7	0	3	3CD	3	22.3							1.3	0	0	1	1	0	0	0	0	
+#FF7570B3	Dot	CER21	edifici rectorat	5	1	3	3A	2	23.7	23.7	7.9	12.5	0	0	0	1.1	1	0	0	0	0	0	0	0	
+#FF7570B3	Dot	CER74	esplanada	33bis	0	3	3A	2	20.2							1.5	1	0	0	0	0	0	0	0	
+#FF7570B3	Dot	CER86	antic campament	42	0	3	3A	2	22.9							1.1	1	0	0	0	0	0	0	0	
+#FFD95F02	Dot	CER54	parking public	20	0	3	3O	1	25.5							1.3	0	0	0	0	0	0	0	0	
+#FF7570B3	Dot	CER75	esplanada	33bis	0	3	3A	2	22.7							0.9	1	0	0	0	0	0	0	0	
+#FF7570B3	Dot	CER51	parking public	19	0	3	3A	2	23.7				0	0	0	0.98	1	0	0	0	0	0	0	0	
+#FF7570B3	Dot	CER50	parking public	19	0	3	3A	2	22.7				0	0	0	1.3	1	0	0	0	0	0	0	0	
+#FF7570B3	Dot	CER6	edifici rectorat	3	0	3	3CD	3	21.4						0	1.3	0	0	1	1	0	0	0	0	
+#FF7570B3	Dot	CER55	parking public	20	1	3	3O	1	26.4	26.4	9.1	15.1	0	0	0	0.89	0	0	0	0	0	0	0	0	
+#FF7570B3	Dot	CER84	antic campament	42	0	3	3A	2	22.2							1.01	1	0	0	0	0	0	0	0	
+#FF7570B3	Dot	CER85	antic campament	42	0	3	3A	2	23.1							0.97	1	0	0	0	0	0	0	0	
+#FFD95F02	Dot	CER79	antic campament	40bis	0	3	3O	1	26.7							1.4	0	0	0	0	0	0	0	0	
+#FF7570B3	Dot	CER56	parking public	20	1	3	3O	1	24.8	24.8	8.3	14.7	0	0	0	1.1	0	0	0	0	0	0	0	0	
+#FF7570B3	Dot	CER24	edifici rectorat	5	0	3	3A	2	22.7				0	0	0	1.3	1	0	0	0	0	0	0	0	
+#FF7570B3	Dot	CER27	edifici rectorat	10	1	3	3O	1	24.8	24.8	8.3	12.3	0	0	0	1.05	0	0	0	0	0	0	0	0	
+#FF7570B3	Dot	CER4	edifici rectorat	6	1	3	3CD	3	25.9	25.9	8.9	12.13	0	0	0	1.5	0	0	1	1	0	0	0	0	
+#FF7570B3	Dot	CER5	edifici rectorat	6	0	3	3CD	3	23.1						0	1.2	0	0	1	1	0	0	0	0	
+#FF7570B3	Dot	CER16	edifici rectorat	4	0	3	3A	2	21							1.4	1	0	0	0	0	0	0	0	
+#FF7570B3	Dot	CER17	edifici rectorat	4	0	3	3A	2	20							0.9	1	0	0	0	0	0	0	0	
+#FF7570B3	Dot	CER30	parking public	13	1	3	3B	4	23.2	23.2	10	11.6	0	0	0	1.6	0	1	0	0	0	0	0	0	
+#FFE7298A	Dot	CER31	parking public	13	1	4	4O	1-4	22	55.6	14.8	52.3	22	5	6.2	0.2	0	0	0	0	0	0	0	0	
+#FFE7298A	Dot	CER3	edifici rectorat	2	1	4	4O	1-4	21.8	55.8	15.6	51.7	21.8	4	6.2	0	0	0	0	0	0	0	0	0	
+#FFE7298A	Dot	CER97	voral carretera		0	4	4O	1-4	22.1							1.1	0	0	0	0	0	0	0	0	
+#FFE7298A	Dot	CER2	edifici rectorat	2	1	4	4O	1-4	21.3	55	15.6	51.5	21.3	5	6.8	0	0	0	0	0	0	0	0	0	
+#FFE7298A	Dot	CER29	edifici rectorat	10	0	4	4O	1-4	22.1							0.98	0	0	0	0	0	0	0	0	
+#FFE7298A	Dot	CER33	parking public	14	0	4	4O	1-4	22.4	55.3			22.4	4	6.1	0.1	0	0	0	0	0	0	0	0	
+#FFE7298A	Dot	CER40	parking public	14	1	4	4O	1-4	21.7	56.4	12.6	52.1	21.7	5	6.7	0	0	0	0	0	0	0	0	0	
+#FFE7298A	Dot	CER32	parking public	14	0	4	4O	1-4	22							0	0	0	0	0	0	0	0	0	
+#FFE7298A	Dot	CER42	parking public	14	0	4	4O	1-4		55.9			22.3			0	0	0	0	0	0	0	0	0	
+#FFE7298A	Dot	CER43	parking public	14	0	4	4O	1-4	21.3							0	0	0	0	0	0	0	0	0	
+#FFE7298A	Dot	CER41	parking public	14	1	4	4O	1-4	21.8	55.9	13.9	52.8	21.8	4	6.4	0	0	0	0	0	0	0	0	0	
+#FFE7298A	Dot	CER34	parking public	14	0	4	4O	1-4	21.8							0	0	0	0	0	0	0	0	0	
+#FFE7298A	Dot	CER35	parking public	14	0	4	4O	1-4	21.1							0	0	0	0	0	0	0	0	0	
+#FFE7298A	Dot	CER36	parking public	14	0	4	4O	1-4	21							0.2	0	0	0	0	0	0	0	0	
+#FFE7298A	Dot	CER37	parking public	14	0	4	4O	1-4	21.8							0	0	0	0	0	0	0	0	0	
+#FFE7298A	Dot	CER99	voral carretera		0	4	4O	1-4	22.1							1.1	0	0	0	0	0	0	0	0	
+#FFE7298A	Dot	CER98	voral carretera		0	4	4O	1-4	22.1							1.3	0	0	0	0	0	0	0	0	
+#FFE7298A	Dot	CER100	voral carretera		0	4	4O	1-4	22.1							1.2	0	0	0	0	0	0	0	0	
+#FFE7298A	Dot	CER38	parking public	14	0	4	4O	1-4	22.3							0	0	0	0	0	0	0	0	0	
+#FF66A61E	Dot	CER88	antic campament	43	1	5	5O	4	14.33	20.47	9.5	61.02	9.52	14.9	31.7	0	0	0	0	0	0	0	0	0	
+#FF66A61E	Dot	CER89	antic campament	44	1	5	5O	4	14.25	21.02	10.1	62.05	8.54	15.36	32.03	0	0	0	0	0	0	0	0	0	
+#FF66A61E	Dot	CER90	antic campament	45	1	5	5O	4	13.98	21.4	9.6	59.99	10.32	14.33	31	0	0	0	0	0	0	0	0	0	
+#FF66A61E	Dot	CER91	antic campament	46	1	5	5O	4	14.1	19.87	9.8	60.33	9.65	15.01	31.25	0	0	0	0	0	0	0	0	0	
+#FF66A61E	Dot	CER92	antic campament	47	1	5	5O	4	14.39	20.33	10.2	61.01	8.93	14.28	30.98	0	0	0	0	0	0	0	0	0	
+#FFE6AB02	Dot	CER101	edifici rectorat	2	1	6	6CEFG	4	8.9	19.9	9.7	47.8	8.9	11.6	15	2.6	0	0	1	0	1	1	1	0	
+#FFE6AB02	Dot	CER103	parking public	14	1	6	6CEFG	4	8.8	19.9	10.1	47.8	8.8	11.9	14.9	2	0	0	1	0	1	1	1	0	
+#FFE6AB02	Dot	CER102	edifici rectorat	2	1	6	6CEFG	4	8.6	20.1	9.6	48.1	8.6	12.1	14.8	2.2	0	0	1	0	1	1	1	0	
+#FFE6AB02	Dot	CER39	parking public	14	0	6	6CEFG	4		19.9			8.9			2.2	0	0	1	0	1	1	0	0	
+#FFE6AB02	Dot	CER104	parking public	14	0	6	6CEFG	4	9.1							2.2	0	0	1	0	1	0	0	0	
+#FFE6AB02	Dot	CER105	parking public	14	0	6	6CEFG	4	9.1	19.9			9.1	12	15	1.9	0	0	1	0	1	1	1	0	
+<colwidths 80 80 80 80 80 80 80 80 80 80 80 80 80 80 80 80 149 152 114 112 138 164 >
